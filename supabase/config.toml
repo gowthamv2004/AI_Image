@@ -1,0 +1,13 @@
+project_id = "fowvifaiaowutxrnmvoe"
+
+[functions.generate-image]
+verify_jwt = false
+
+[functions.chat-ai]
+verify_jwt = false
+
+[functions.generate-video]
+verify_jwt = false
+
+[functions.enhance-image]
+verify_jwt = false
